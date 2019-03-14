@@ -33,9 +33,9 @@
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
+ .idea/modules.xml
+ .idea/*.iml
+ .idea/modules
 
 # CMake
 cmake-build-*/
@@ -82,3 +82,19 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/intellij
+
+# hidding folders until ready
+src/main/java/ArrayVsArrayList/
+src/main/java/abstraction/
+src/main/java/abstracts/
+src/main/java/concurrency/
+src/main/java/concurrency2/
+src/main/java/fundamentals/
+src/main/java/inheritance/
+src/main/java/interfaces/
+src/main/java/io/
+src/main/java/jdbc/
+src/main/java/lambda/
+src/main/java/objects/
+src/main/java/ormlite/
+# src/main/java/patterns/

@@ -1,0 +1,34 @@
+	1	Petr	Czech	Goalkeeper	Czech Republic	7	0	0
+	19	Bernd	Leno	Goalkeeper	Germany	22	0	0
+	50	Dejan	Iliev	Goalkeeper	Macedonia	0	0	0
+	2	Héctor	Bellerín	Defender	Spain	19	0	0
+	6	Laurent	Koscielny	Defender	France	10	3	0
+	16	Rob	Holding	Defender	England	10	0	0
+	18	Nacho	Monreal	Defender	Spain	14	1	0
+	20	Shkodran	Mustafi	Defender	Germany	23	2   0
+	27	Konstantinos	Mavropanos	Defender	Greece	1	0	0
+	31	Sead	Kolasinac	Defender	Bosnia And Herzegovina	17	0	0
+	12	Stephan	Lichtsteiner	Defender	Switzerland	12	0	0
+	25	Carl	Jenkinson	Defender	England 2	0   0
+	5	Sokratis	Papastathopoulos	Defender	Greece	18	0	0
+	47	Zech	Medley	Defender	England	0	0	0
+	53	Julio	Pleguezuelo	Defender	Spain	0	0
+	52	Jordi	Osei-Tutu	Defender	England	0	0	0
+	4	Mohamed	Elneny	Midfielder	Egypt	4	0	0
+	7	Henrikh	Mkhitaryan	Midfielder	Armenia	17	6	4
+	8	Aaron	Ramsey	Midfielder	Wales	23	2	6
+	10	Mesut	Özil	Midfielder	Germany	16	4	2
+	17	Alex	Iwobi	Midfielder	Nigeria	25	3	4
+	15	Ainsley	Maitland-Niles	Midfielder	England	9	1	1
+	34	Granit	Xhaka	Midfielder	Switzerland	23	3	1
+	11	Lucas	Torreira	Midfielder	Uruguay	28	2	2
+	29	Matteo	Guendouzi	Midfielder	France	24	0	0
+	59	Joe	Willock	Midfielder	England	1	0	0
+	43	Charlie	Gilmour	Midfielder	Scotland	0	0	0
+	22	Denis	Suárez	Midfielder	Spain	3	0	0
+	9	Alexandre	Lacazette	Forward	France	27	12	5
+	14	Pierre-Emerick	Aubameyang	Forward	Gabon	27	16	4
+	23	Danny	Welbeck	Forward	England	8	1	1
+	49	Eddie	Nketiah	Forward	England	1	0	0
+	72	Tyreece	John-Jules	Forward	England	0	0	0
+	87	Bukayo	Saka	Forward	England	1	0	0
