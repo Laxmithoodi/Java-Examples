@@ -93,7 +93,7 @@ src/main/java/fundamentals/
 src/main/java/inheritance/
 src/main/java/interfaces/
 src/main/java/io/
-src/main/java/jdbc/
+# src/main/java/jdbc/
 src/main/java/lambda/
 src/main/java/objects/
 src/main/java/ormlite/
